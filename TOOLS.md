@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10690** tools · updated 2026-10-31
+**10705** tools · updated 2026-11-01
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-01)
+
+- [InvokeAI](https://invoke.ai)
+- [marimo](https://marimo.io)
+- [Daytona](https://www.daytona.io)
+- [Excalidraw](https://excalidraw.com)
+- [Undermind](https://www.undermind.ai)
+- [Laminar](https://laminar.sh)
+- [AgentOps](https://www.agentops.ai)
+- [Cognee](https://www.cognee.ai)
+- [BAML](https://boundaryml.com)
+- [Kiln AI](https://kiln.tech)
+- [CVAT](https://www.cvat.ai)
+- [goose](https://goose-docs.ai)
+- [Draw Things](https://drawthings.ai)
+- [Handy](https://handy.computer)
+- [VoltAgent](https://voltagent.dev)
 
 ## Recently added / 最近上架 (2026-10-31)
 
