@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10705** tools · updated 2026-11-01
+**10738** tools · updated 2026-11-03
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-03)
+
+- [Mirascope](https://mirascope.com)
+- [MinerU](https://mineru.net)
+- [MetaGPT](https://www.metagpt.ai)
+- [Quivr](https://quivr.com)
+- [FastGPT](https://fastgpt.io)
+- [FalkorDB](https://www.falkordb.com)
+- [Graphiti](https://github.com/getzep/graphiti)
+- [ZenML](https://zenml.io)
+- [Baseten](https://www.baseten.co)
+- [RunPod](https://www.runpod.io)
+- [Hyperbolic](https://hyperbolic.xyz)
+- [Strands Agents](https://strandsagents.com)
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework)
+- [Khoj](https://khoj.dev)
+- [Guardrails AI](https://www.guardrailsai.com)
 
 ## Recently added / 最近上架 (2026-11-01)
 
