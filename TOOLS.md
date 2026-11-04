@@ -1,8 +1,25 @@
 # FindAIForMe — All tools (flat list)
 
-**10738** tools · updated 2026-11-03
+**10752** tools · updated 2026-11-04
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-04)
+
+- [LightRAG](https://github.com/HKUDS/LightRAG)
+- [PageIndex](https://pageindex.ai)
+- [Open Notebook](https://www.open-notebook.ai)
+- [Kotaemon](https://cinnamon.github.io/kotaemon/)
+- [Onyx](https://www.onyx.app)
+- [R2R](https://github.com/SciPhi-AI/R2R)
+- [Chainlit](https://chainlit.io)
+- [Giskard](https://www.giskard.ai)
+- [OmniRoute](https://omniroute.online)
+- [New API](https://www.newapi.ai)
+- [DeerFlow](https://deerflow.tech)
+- [WeKnora](https://github.com/Tencent/WeKnora)
+- [Microsoft GraphRAG](https://microsoft.github.io/graphrag/)
+- [llamafile](https://llamafile.ai)
 
 ## Recently added / 最近上架 (2026-11-03)
 
