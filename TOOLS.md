@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10752** tools · updated 2026-11-04
+**10767** tools · updated 2026-11-05
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-05)
+
+- [Marker](https://github.com/VikParuchuri/marker)
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice)
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+- [llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [Cherry Studio](https://cherryai.com)
+- [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+- [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
+- [AgentGPT](https://agentgpt.reworkd.ai)
+- [ChatDev](https://github.com/OpenBMB/ChatDev)
+- [RouteLLM](https://github.com/lm-sys/RouteLLM)
+- [PraisonAI](https://praison.ai)
+- [rembg](https://github.com/danielgatis/rembg)
+- [llmware](https://llmware.ai)
+- [Argilla](https://argilla.io)
+- [Guidance](https://github.com/guidance-ai/guidance)
 
 ## Recently added / 最近上架 (2026-11-04)
 
