@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10767** tools · updated 2026-11-05
+**10782** tools · updated 2026-11-06
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-06)
+
+- [Pinokio](https://pinokio.co)
+- [IOPaint](https://www.iopaint.com)
+- [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
+- [SkyPilot](https://docs.skypilot.co)
+- [FramePack](https://github.com/lllyasviel/FramePack)
+- [LTX-Video](https://ltx.io)
+- [Stability Matrix](https://lykos.ai)
+- [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper)
+- [Open-Sora](https://github.com/hpcaitech/Open-Sora)
+- [KoboldCpp](https://github.com/LostRuins/koboldcpp)
+- [CosyVoice](https://github.com/FunAudioLLM/CosyVoice)
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+- [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
+- [MLX](https://ml-explore.github.io/mlx/)
 
 ## Recently added / 最近上架 (2026-11-05)
 

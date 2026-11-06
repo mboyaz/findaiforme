@@ -1,6 +1,6 @@
 # FindAIForMe — Full AI Tools Catalog / 完整工具目录
 
-> **Live site (authoritative):** [https://findaifor.me/](https://findaifor.me/) — about **10,767** tools · **12** categories (verified 2026-11-05, D1 count).
+> **Live site (authoritative):** [https://findaifor.me/](https://findaifor.me/) — about **10,782** tools · **12** categories (verified 2026-11-06, D1 count).
 >
 > Markdown snapshot below was generated on **2026-11-01** (then **10,705** tools / **11** category files). Snapshot counts may lag the live catalog.
 >
